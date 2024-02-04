@@ -1,0 +1,14 @@
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\bin\Debug\net8.0\BusquedaOrdenamiento.exe
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\bin\Debug\net8.0\BusquedaOrdenamiento.deps.json
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\bin\Debug\net8.0\BusquedaOrdenamiento.runtimeconfig.json
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\bin\Debug\net8.0\BusquedaOrdenamiento.dll
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\bin\Debug\net8.0\BusquedaOrdenamiento.pdb
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.AssemblyInfoInputs.cache
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.AssemblyInfo.cs
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.dll
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\refint\BusquedaOrdenamiento.dll
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.pdb
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\BusquedaOrdenamiento.genruntimeconfig.cache
+C:\Users\FEscobozaM\Desktop\Projects\BusquedaOrdenamiento\BusquedaOrdenamiento\obj\Debug\net8.0\ref\BusquedaOrdenamiento.dll
